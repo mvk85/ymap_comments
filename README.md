@@ -1,5 +1,5 @@
-##VK plugin friend-filter
+Yandex map plugin
 
-###Comands:
+Comands:
 
 * `npm run start`
