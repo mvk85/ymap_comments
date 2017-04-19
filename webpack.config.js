@@ -12,7 +12,7 @@ module.exports = {
     output: {
         filename: '[hash].js',
         path: __dirname + '/dist',
-        publicPath: '/'
+        //publicPath: '/'
     },
     devtool: 'source-map',
     module: {
